@@ -1,2 +1,2 @@
 # About
-About Vetlix
+Verified Idiot
